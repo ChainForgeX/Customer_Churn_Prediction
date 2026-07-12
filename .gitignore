@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow Models
+models/
+*.keras
+*.h5
+
+# macOS
+.DS_Store
